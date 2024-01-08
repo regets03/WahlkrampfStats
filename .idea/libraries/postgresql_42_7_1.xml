@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-42.7.1">
+    <CLASSES>
+      <root url="jar://D:/Programmieren/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
